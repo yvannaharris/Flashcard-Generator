@@ -9,3 +9,5 @@ var ClozeCard = function(text, cloze) {
 		};
 	};
 };
+
+module.exports = ClozeCard; 
